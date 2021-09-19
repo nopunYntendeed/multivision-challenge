@@ -1,11 +1,9 @@
 # multivision-challenge
 
 ### Requirements:
-* Chrome 
+* Chrome Installed
 * JDK >=11 
 
-### Installation:
-
 ### Testing
-'mvn test'
+``` mvn test```
 
